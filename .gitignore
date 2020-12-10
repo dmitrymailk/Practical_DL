@@ -33,6 +33,16 @@ var/
 .installed.cfg
 *.egg/
 
+*.gz
+*.zip
+*/notMNIST_small
+*/cifar_data
+*/train
+*/val
+*/data
+*/arxiv_titles.txt
+*/lfw-deepfunneled
+
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
