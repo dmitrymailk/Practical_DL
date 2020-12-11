@@ -42,6 +42,8 @@ var/
 */data
 */arxiv_titles.txt
 */lfw-deepfunneled
+*/speech_commands
+log
 
 # Installer logs
 pip-log.txt
